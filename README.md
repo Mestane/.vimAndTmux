@@ -30,6 +30,7 @@ sudo pacman -S tmux
 🔹 https://github.com/gpakosz/.tmux
 
 ➋ Then create .vimrc file ( if not exist )
+
 ┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉
 
 
