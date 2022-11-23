@@ -55,5 +55,5 @@ touch ~/.vimrc
 
 #### SCREENSHOTS ####
 
+<img src="https://github.com/Mestane/.vimAndTmux/blob/master/ScreenShots/vimrc.png">
 <img src="https://github.com/Mestane/.vimAndTmux/blob/master/ScreenShots/css.png">
-
