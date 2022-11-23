@@ -1,5 +1,7 @@
 everyone. In this video I am going to show you how to customize Vim with Tmux and make your Vim to general IDE.
+
 ➊ First of all please install the applications on your computer in order.
+
 ┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉
 
 
