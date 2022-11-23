@@ -53,6 +53,11 @@ touch ~/.vimrc
  My .vimrc and .tmux.local.conf files
 [.vimAndTmux](https://github.com/Mestane/.vimAndTmux.git)
 
+
+**_Please don't forget to install VIM-PLUG before installing plugins._**
+[VIM-PLUG](https://github.com/junegunn/vim-plug) 
+
+
 #### SCREENSHOTS ####
 
 **_.vimrc file_**
