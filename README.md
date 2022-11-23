@@ -2,6 +2,7 @@ everyone. In this video I am going to show you how to customize Vim with Tmux an
 ➊ First of all please install the applications on your computer in order.
 ┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉
 
+
 🔽 Vim
 🔹 https://www.vim.org/download.php
      or
@@ -27,7 +28,8 @@ sudo pacman -S tmux
 🔹 https://github.com/gpakosz/.tmux
 
 ➋ Then create .vimrc file ( if not exist )
-┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉
+┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉
+
 
 🔹 touch ~/.vimrc
  if you have already created the .vimrc file please back up
@@ -35,6 +37,7 @@ sudo pacman -S tmux
 
 ➌ After that download my .vimrc and .tmux.local.conf file 
 ┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉
+
 
  My .vimrc and .tmux.local.conf files
 [.vimAndTmux](https://github.com/Mestane/.vimAndTmux.git)
