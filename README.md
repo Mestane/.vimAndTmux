@@ -32,6 +32,7 @@ sudo pacman -S tmux
 ➋ Then create .vimrc file ( if not exist )
 ┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉
 
+
 ```bash
 touch ~/.vimrc
 
