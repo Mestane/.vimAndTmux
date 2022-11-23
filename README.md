@@ -36,4 +36,5 @@ sudo pacman -S tmux
 ➌ After that download my .vimrc and .tmux.local.conf file 
 ┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉
 
-  My .vimrc and .tmux.local.conf files
+ My .vimrc and .tmux.local.conf files
+[.vimAndTmux](https://github.com/Mestane/.vimAndTmux.git)
