@@ -31,13 +31,17 @@ sudo pacman -S tmux
 
 ➋ Then create .vimrc file ( if not exist )
 ┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉
+```bash
+touch ~/.vimrc
 
-
-🔹 touch ~/.vimrc
+```
 
  if you have already created the .vimrc file please back up
 
- mv ~/.vimrc ~/.vimrc.bak
+```bash
+mv ~/.vimrc ~/.vimrc.bak
+
+```
 
 ➌ After that download my .vimrc and .tmux.local.conf file 
 ┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉
