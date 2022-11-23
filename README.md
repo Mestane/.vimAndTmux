@@ -55,5 +55,8 @@ touch ~/.vimrc
 
 #### SCREENSHOTS ####
 
+**_.vimrc file_**
 <img src="https://github.com/Mestane/.vimAndTmux/blob/master/ScreenShots/vimrc.png">
+
+**_any css file_**
 <img src="https://github.com/Mestane/.vimAndTmux/blob/master/ScreenShots/css.png">
