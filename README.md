@@ -54,8 +54,7 @@ touch ~/.vimrc
 [.vimAndTmux](https://github.com/Mestane/.vimAndTmux.git)
 
 
-**_Please don't forget to install VIM-PLUG before installing plugins._**
-[VIM-PLUG](https://github.com/junegunn/vim-plug) 
+**_Please don't forget to install [VIM-PLUG](https://github.com/junegunn/vim-plug) before installing plugins._**
 
 
 #### SCREENSHOTS ####
