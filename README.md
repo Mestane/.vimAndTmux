@@ -2,7 +2,7 @@ Hello everyone. In this video I am going to show you how to customize Vim with T
 
 ### ➊ First of all please install the applications on your computer in order. ###
 
-┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉
+---
 
 
 ### 🔽 Vim ###
@@ -31,7 +31,7 @@ sudo pacman -S tmux
 
 ➋ Then create .vimrc file ( if not exist )
 
-┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉
+---
 
 
 ```bash
@@ -47,7 +47,7 @@ touch ~/.vimrc
 
 ➌ After that download my .vimrc and .tmux.local.conf file 
 
-┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉
+---
 
 
  My .vimrc and .tmux.local.conf files
